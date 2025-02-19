@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>    
+
 <!--
 ************* Copyright (c) 2017 Pareto Softare, LLC DBA Simplemaps.com *******************		
 ************* Free for Commercial Use, full terms at  http://simplemaps.com/resources/svg-license ************
@@ -43,6 +45,7 @@
      inkscape:window-y="118"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
+	 
   <defs
      id="defs4">
     <style
