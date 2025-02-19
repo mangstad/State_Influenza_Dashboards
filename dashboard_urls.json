@@ -1,202 +1,252 @@
 [
   {
     "name": "Alabama",
-    "url": "https://www.alabamapublichealth.gov/data/respiratory.html"
+    "url": "https://www.alabamapublichealth.gov/data/respiratory.html",
+    "url2": ""
   },
   {
     "name": "Alaska",
-    "url": "https://health.alaska.gov/dph/Epi/id/Pages/COVID-19/covidandflu.aspx"
+    "url": "https://health.alaska.gov/dph/Epi/id/Pages/COVID-19/covidandflu.aspx",
+    "url2": ""
   },
   {
     "name": "Arizona",
-    "url": "https://www.azdhs.gov/preparedness/epidemiology-disease-control/flu/index.php#surveillance-home"
+    "url": "https://www.azdhs.gov/preparedness/epidemiology-disease-control/flu/index.php#surveillance-home",
+    "url2": ""
   },
   {
     "name": "Arkansas",
-    "url": "https://healthy.arkansas.gov/programs-services/diseases-conditions/communicable-diseases/influenza-flu/"
+    "url": "https://healthy.arkansas.gov/programs-services/diseases-conditions/communicable-diseases/influenza-flu/",
+    "url2": ""
   },
   {
     "name": "California",
-    "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/RespiratoryVirusReport.aspx"
+    "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/RespiratoryVirusReport.aspx",
+    "url2": ""
   },
   {
     "name": "Colorado",
-    "url": "https://cdphe.colorado.gov/viral-respiratory-diseases-report"
+    "url": "https://cdphe.colorado.gov/viral-respiratory-diseases-report",
+    "url2": ""
   },
   {
     "name": "Connecticut",
-    "url": "https://portal.ct.gov/dph/infectious-diseases/rvd/respiratory-viral-disease-surveillance"
+    "url": "https://portal.ct.gov/dph/infectious-diseases/rvd/respiratory-viral-disease-surveillance",
+    "url2": ""
   },
   {
     "name": "Delaware",
-    "url": "https://myhealthycommunity.dhss.delaware.gov/topics/flu/overview/state/2022-2023"
+    "url": "https://myhealthycommunity.dhss.delaware.gov/topics/flu/overview/state/2022-2023",
+    "url2": ""
   },
   {
     "name": "Florida",
-    "url": "https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/influenza/florida-influenza-surveillance-report-archive/index.html"
+    "url": "https://www.floridahealth.gov/diseases-and-conditions/respiratory-illness/influenza/florida-influenza-surveillance-report-archive/index.html",
+    "url2": ""
   },
   {
     "name": "Georgia",
-    "url": "https://dph.georgia.gov/flu-activity-georgia"
+    "url": "https://dph.georgia.gov/flu-activity-georgia",
+    "url2": ""
   },
   {
     "name": "Hawaii",
-    "url": ""
+    "url": "https://health.hawaii.gov/docd/resources/reports/influenza-reports/",
+    "url2": ""
   },
   {
     "name": "Idaho",
-    "url": ""
+    "url": "https://www.gethealthy.dhw.idaho.gov/infectious-diseases-seasonal-flu",
+    "url2": ""
   },
   {
     "name": "Illinois",
-    "url": ""
+    "url": "https://dph.illinois.gov/topics-services/diseases-and-conditions/respiratory-disease/surveillance/respiratory-disease-report.html",
+    "url2": ""
   },
   {
     "name": "Indiana",
-    "url": "https://www.in.gov/health/idepd/respiratory-disease/influenza/influenza-dashboard/"
+    "url": "https://www.in.gov/health/idepd/respiratory-disease/influenza/influenza-dashboard/",
+    "url2": ""
   },
   {
     "name": "Iowa",
-    "url": ""
+    "url": "https://hhs.iowa.gov/center-acute-disease-epidemiology/iowa-influenza-surveillance",
+    "url2": ""
   },
   {
     "name": "Kansas",
-    "url": ""
+    "url": "https://www.kdhe.ks.gov/1476/Influenza-Surveillance",
+    "url2": ""
   },
   {
     "name": "Kentucky",
-    "url": ""
+    "url": "https://dashboard.chfs.ky.gov/views/DPHRSP001RespiratoryDiseases/Introduction?%3Aembed=y&%3AisGuestRedirectFromVizportal=y",
+    "url2": ""
   },
   {
     "name": "Louisiana",
-    "url": ""
+    "url": "https://ldh.la.gov/page/5213",
+    "url2": ""
   },
   {
     "name": "Maine",
-    "url": ""
+    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml",
+    "url2": ""
   },
   {
     "name": "Maryland",
-    "url": ""
+    "url": "https://health.maryland.gov/phpa/influenza/Pages/flu-dashboard.aspx",
+    "url2": ""
   },
   {
     "name": "Massachusetts",
-    "url": ""
+    "url": "https://www.mass.gov/info-details/influenza-reporting",
+    "url2": ""
   },
   {
     "name": "Michigan",
-    "url": "https://www.michigan.gov/flu/surveillance"
+    "url": "https://www.michigan.gov/flu/surveillance",
+    "url2": ""
   },
   {
     "name": "Minnesota",
-    "url": ""
+    "url": "https://www.health.state.mn.us/diseases/flu/stats/index.html",
+    "url2": ""
   },
   {
     "name": "Mississippi",
-    "url": ""
+    "url": "https://msdh.ms.gov/page/14,0,199,230.html",
+    "url2": ""
   },
   {
     "name": "Missouri",
-    "url": ""
+    "url": "https://health.mo.gov/living/healthcondiseases/communicable/influenza/dashboard.php",
+    "url2": ""
   },
   {
     "name": "Montana",
-    "url": ""
+    "url": "https://dphhs.mt.gov/publichealth/cdepi/diseases/Pan-Respiratory/InfluenzaDashboard",
+    "url2": ""
   },
   {
     "name": "Nebraska",
-    "url": ""
+    "url": "https://dhhs.ne.gov/Pages/Seasonal-Respiratory-Diseases.aspx",
+    "url2": ""
   },
   {
     "name": "Nevada",
-    "url": ""
+    "url": "https://www.nnph.org/programs-and-services/ephp/communicable-diseases-and-epidemiology/programs/viral-respiratory-surveillance.php",
+    "url2": "https://www.southernnevadahealthdistrict.org/news-info/statistics-surveillance-reports/influenza-surveillance/"
   },
   {
     "name": "New Hampshire",
-    "url": ""
+    "url": "https://www.dhhs.nh.gov/programs-services/disease-prevention/infectious-disease-control/influenza-flu/influenza-flu",
+    "url2": ""
   },
   {
     "name": "New Jersey",
-    "url": ""
+    "url": "https://www.nj.gov/health/respiratory-viruses/data-and-reports/",
+    "url2": ""
   },
   {
     "name": "New Mexico",
-    "url": ""
+    "url": "https://nmdoh-reports.shinyapps.io/ViralRespiratoryInfectionDashboard/",
+    "url2": ""
   },
   {
     "name": "New York",
-    "url": ""
+    "url": "https://www.health.ny.gov/diseases/communicable/influenza/surveillance/",
+    "url2": ""
   },
   {
     "name": "North Carolina",
-    "url": ""
+    "url": "https://covid19.ncdhhs.gov/dashboard/respiratory-virus-surveillance",
+    "url2": ""
   },
   {
     "name": "North Dakota",
-    "url": ""
+    "url": "https://www.hhs.nd.gov/health/influenza",
+    "url2": ""
   },
   {
     "name": "Ohio",
-    "url": "https://odh.ohio.gov/know-our-programs/seasonal-influenza/influenza-dashboard"
+    "url": "https://odh.ohio.gov/know-our-programs/seasonal-influenza/influenza-dashboard",
+    "url2": ""
   },
   {
     "name": "Oklahoma",
-    "url": ""
+    "url": "https://oklahoma.gov/health/health-education/acute-disease-service/viral-view.html",
+    "url2": ""
   },
   {
     "name": "Oregon",
-    "url": ""
+    "url": "https://www.oregon.gov/oha/ph/diseasesconditions/communicabledisease/diseasesurveillancedata/influenza/pages/surveil.aspx",
+    "url2": ""
   },
   {
     "name": "Pennsylvania",
-    "url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/respiratory-viruses/respiratory-virus-dashboard.html"
+    "url": "https://www.pa.gov/agencies/health/diseases-conditions/infectious-disease/respiratory-viruses/respiratory-virus-dashboard.html",
+    "url2": ""
   },
   {
     "name": "Rhode Island",
-    "url": ""
+    "url": "https://health.ri.gov/data/influenza-flu-data",
+    "url2": ""
   },
   {
     "name": "South Carolina",
-    "url": ""
+    "url": "https://dph.sc.gov/professionals/public-health-data/flu-watch",
+    "url2": ""
   },
   {
     "name": "South Dakota",
-    "url": ""
+    "url": "https://doh.sd.gov/health-data-reports/data-dashboards/influenza-dashboard/",
+    "url2": ""
   },
   {
     "name": "Tennessee",
-    "url": ""
+    "url": "https://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html",
+    "url2": ""
   },
   {
     "name": "Texas",
-    "url": ""
+    "url": "https://www.dshs.texas.gov/influenza-flu-provider-information/influenza-flu-surveillance",
+    "url2": ""
   },
   {
     "name": "Utah",
-    "url": ""
+    "url": "https://coronavirus.utah.gov/case-counts/",
+    "url2": ""
   },
   {
     "name": "Vermont",
-    "url": ""
+    "url": "https://www.healthvermont.gov/disease-control/influenza-flu/flu-activity-and-surveillance",
+    "url2": ""
   },
   {
     "name": "Virginia",
-    "url": ""
+    "url": "https://www.vdh.virginia.gov/epidemiology/respiratory-diseases-in-virginia/data/",
+    "url2": ""
   },
   {
     "name": "Washington",
-    "url": ""
+    "url": "https://doh.wa.gov/data-and-statistical-reports/diseases-and-chronic-conditions/communicable-disease-surveillance-data/influenza-surveillance-data",
+    "url2": ""
   },
   {
     "name": "West Virginia",
-    "url": ""
+    "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+    "url2": ""
   },
   {
     "name": "Wisconsin",
-    "url": ""
+    "url": "https://www.dhs.wisconsin.gov/influenza/data.htm",
+    "url2": ""
   },
   {
     "name": "Wyoming",
-    "url": ""
+    "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/influenza-reports/weekly-influenza-reports-wyoming/",
+    "url2": ""
   }
 ]
